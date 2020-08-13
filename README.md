@@ -25,13 +25,13 @@ We expect members of the community participating in conversations here to act in
 
 ### Do
 - Use the issue templates provided
-- Search the issue tracker to ensure that your issue has not already been submitted before making a new issue
+- Search the issue tracker to ensure that your issue has not already been submitted before making a new post
 - Verify the validity of your issue
 - Be clear, concise and specific in your messages
 - Keep conversations on topic
 - Be respectful toward everyone
 - Take advantage of [GitHub Flavoured Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) -- it's awesome, and it makes your submission that much better! 😄
-- Create a separate issue for each feature request/bug report (don't include multiple things in one issue)
+- Create a separate issue for each feature request/bug report (don't talk about multiple things in one issue)
 
 ### Don't
 - Bump issues for the sole purpose of receiving a response (all issues are acknowledged)
@@ -45,4 +45,4 @@ We expect members of the community participating in conversations here to act in
 > ⚠️ **Important!** If you discover a potential security exploit or vulnerability, please do not report it here! Exercise [responsible disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) and [send us an email describing the issue](mailto:trent@superleague.com). Give us adequate time to address the issue before you disclose the vulnerability to the public.
 
 - Once you're ready to submit your bug report or feature request, head over to [this page](https://github.com/Minehut/Meta/issues/new) to begin the process
-- You can also comment on other issues and participate in other conversations. Remember, if you want to show support or general disagreement of an issue, use 👍 and 👎 reactions. You can also [sort by 👍 reactions](https://github.com/Minehut/Meta/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) (also [by 👎 if you'd like](https://github.com/Minehut/Meta/issues?q=is%3Aissue+sort%3Areactions--1-desc))
+- You can also comment on other issues and participate in other conversations. Remember, if you want to show support or general disagreement of an issue, use 👍 and 👎 reactions. You can also [sort issues by 👍 reactions](https://github.com/Minehut/Meta/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) (also [by 👎 if you'd like](https://github.com/Minehut/Meta/issues?q=is%3Aissue+sort%3Areactions--1-desc))
