@@ -36,6 +36,7 @@ We expect members of the community participating in conversations here to act in
 ### Don't
 - Bump issues for the sole purpose of receiving a response (all issues are acknowledged)
 - Argue unproductively in the comments
+- Try to get support for Minehut services here -- [read this](https://github.com/Minehut/Meta/blob/master/SUPPORT.md)
 - Use logical fallacies in arguments
 - Recreate an issue you feel was unjustly closed -- if you feel an issue was unjustly closed, feel free to add a comment to the issue explaining why
 - Add comments such as 👍, +1 or "I like this idea" -- use [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)! We can measure those :)
