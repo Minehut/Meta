@@ -25,8 +25,8 @@ We expect members of the community participating in conversations here to act in
 
 ### Do
 - Use the issue templates provided
-- Search the issue tracker to ensure that your issue has not already been submitted before making a new post
-- Verify the validity of your issue
+- Search the issue tracker to ensure that your issue has not already been submitted before making a new post (use the search bar on the [Issues page](https://github.com/Minehut/Meta/issues))
+- Verify the validity of your issue (correct info, reproducible, an actual issue)
 - Be clear, concise and specific in your messages
 - Keep conversations on topic
 - Be respectful toward everyone
