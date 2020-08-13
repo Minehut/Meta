@@ -15,7 +15,7 @@ We understand you might not have much experience using GitHub, and that's fine! 
 - **Issue**: A feature request or **bug** report.
 - **Repository** or **repo**: Refers to the group of Minehut Meta pages. Includes the **issue** tracker and documents (like this one).
 - **Bug**: Any piece of unintended behaviour anywhere on Minehut. Basically if something isn't working how it should, it's a bug.
-- **Valid**: If an **issue** is correct.
+- **Valid**: If an **issue** is correct. Reproducible? Correct information? Actually an issue?
 - **Reproducible**: If a **bug** report can be copied or induced by other people. A bug report must be **reproducible** to be **valid**.
 
 Now that you're an expert of the technical jargon we use to manage issues, you're one step closer to making your first issue!
@@ -26,7 +26,7 @@ We expect members of the community participating in conversations here to act in
 ### Do
 - Use the issue templates provided
 - Search the issue tracker to ensure that your issue has not already been submitted before making a new post (use the search bar on the [Issues page](https://github.com/Minehut/Meta/issues))
-- Verify the validity of your issue (correct info, reproducible, an actual issue)
+- Verify the validity of your issue
 - Be clear, concise and specific in your messages
 - Keep conversations on topic
 - Be respectful toward everyone
