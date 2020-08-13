@@ -25,7 +25,7 @@ We expect members of the community participating in conversations here to act in
 
 ### Do
 - Use the issue templates provided
-- Search the issue tracker to ensure that your issue is not a duplicate before making an issue
+- Search the issue tracker to ensure that your issue has not already been submitted before making a new issue
 - Verify the validity of your issue
 - Be clear, concise and specific in your messages
 - Keep conversations on topic
