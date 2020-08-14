@@ -14,7 +14,7 @@ This is the Minehut Meta GitHub repository. Here, you can tell us about your fea
 We understand you might not have much experience using GitHub, and that's fine! We'll do our best to help you navigate this tracker. We can start by introducing some key terms you'll be hearing a lot:
 - **Issue**: A feature request or **bug** report.
 - **Repository** or **repo**: Refers to the group of Minehut Meta pages. Includes the **issue** tracker and documents (like this one).
-- **Bug**: Any piece of unintended behavior anywhere on Minehut. Basically, if something isn't working how it should, it's a bug.
+- **Bug**: Any piece of unintended behaviour anywhere on Minehut. Basically, if something isn't working how it should, it's a bug.
 - **Valid**: If an **issue** is correct. Reproducible? Correct information? Actually an issue?
 - **Reproducible**: If a **bug** report can be copied or induced by other people. A bug report must be **reproducible** to be **valid**.
 
