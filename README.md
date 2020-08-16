@@ -49,5 +49,5 @@ We expect members of the community participating in conversations here to act in
 ## Submitting An Issue
 > ⚠️ **Important!** If you discover a potential security exploit or vulnerability, please do not report it here! Check our [Security Policy](https://github.com/Minehut/Meta/security/policy) for more information.
 
-- Once you're ready to submit your bug report or feature request, head over to [this page](https://github.com/Minehut/Meta/issues/new) to begin the process
+- Once you're ready to submit your bug report or feature request, head over to [this page](https://github.com/Minehut/Meta/issues/new/choose) to begin the process
 - You can also comment on other issues and participate in other conversations. Remember, if you want to show support or general disagreement of an issue, use 👍 and 👎 reactions. You can also [sort issues by 👍 reactions](https://github.com/Minehut/Meta/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) (also [by 👎 if you'd like](https://github.com/Minehut/Meta/issues?q=is%3Aissue+sort%3Areactions--1-desc))
