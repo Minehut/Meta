@@ -25,6 +25,9 @@ We expect members of the community participating in conversations here to act in
 
 ### Do
 - Use the issue templates provided
+- Help out staff if asked
+- Contribute to on-going discussions
+- Give constructive feedback to ideas
 - Search the issue tracker to ensure that your issue has not already been submitted before making a new post (use the search bar on the [Issues page](https://github.com/Minehut/Meta/issues))
 - Verify the validity of your issue
 - Be clear, concise and specific in your messages
@@ -36,6 +39,7 @@ We expect members of the community participating in conversations here to act in
 ### Don't
 - Bump issues for the sole purpose of receiving a response (all issues are acknowledged)
 - Argue unproductively in the comments
+- Stray off-topic
 - Try to get support for Minehut services here -- [read this](https://github.com/Minehut/Meta/blob/master/SUPPORT.md)
 - Request new plugins or plugins update here -- those belong on [the forum category](https://forums.minehut.com/forum/20-plugins/)
 - Use logical fallacies in arguments
