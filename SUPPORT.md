@@ -11,4 +11,4 @@ If you would like support, we have a number of resources available:
 This is not the place to report bugs with plugins, unless you have tested the same version of the plugin on a local server and found different behaviour, in which case you are allowed to report the bug here.
 
 If you are unsure whether you should report a bug here, contact a Minehut staff member [on Discord](https://discord.gg/minehut) or [on the forum](https://forums.minehut.com) and explain your issue.
-Additionally, if you have a question about this repository, [read the README](https://github.com/Minehut/Meta) and if your question is still not answered you may [make an issue here](https://github.com/Minehut/Meta/issues/new).
+Additionally, if you have a question about this repository, [read the README](https://github.com/Minehut/Meta) and if your question is still not answered you may [make an issue here](https://github.com/Minehut/Meta/issues/new?assignees=&labels=question&template=question.md&title=+Question%3A+).
