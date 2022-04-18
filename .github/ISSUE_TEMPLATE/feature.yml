@@ -47,16 +47,22 @@ body:
         - Website
         - Discord
         - Other
+    validations:
+      required: true
   - type: textarea
     id: idea
     attributes:
       label: What is your idea?
       description: What feature are you suggesting? Include a clear and concise description of the feature 
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: howuse
     attributes:
       label: How is it useful?
       description: Who does the feature benefit? How is it useful to people?
       render: shell
+    validations:
+      required: true
   
