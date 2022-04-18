@@ -38,7 +38,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: What platform are you on?
+      label: Where are you?
       multiple: true
       options:
         - Java
@@ -52,7 +52,7 @@ body:
     id: bug
     attributes:
       label: What is your bug?
-      description: A clear and concise description of what the bug is
+      description: A clear and concise description of what the bug is.
       render: shell
     validations:
       required: true
@@ -60,7 +60,7 @@ body:
     id: reproduce
     attributes:
       label: How can I do it?
-      description: Steps to reproduce the behavior
+      description: Steps to reproduce the behavior.
       render: shell
     validations:
       required: true
@@ -68,7 +68,7 @@ body:
     id: expected
     attributes:
       label: What should happen?
-      description: A clear and concise description of what you expected to happen
+      description: What was supposed to happen before the bug broke everything?
       render: shell
     validations:
       required: true
