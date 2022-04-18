@@ -29,7 +29,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: What platform are you on?
+      label: Where are you?
       multiple: true
       options:
         - Java
@@ -43,7 +43,7 @@ body:
     id: filter
     attributes:
       label: Should the phrase be filtered or unfiltered?
-      description: Are you reporting a mistakenly filtered phrase or an unfiltered phrase that should be filtered?
+      description: Does it need to be hidden or shown?
       options:
         - Filter
         - UnFilter
