@@ -1,0 +1,62 @@
+name: Suggestion
+description: Suggest an idea for Minehut
+title: "[IDEA]: "
+labels: ["feature request"]
+
+body:
+  - type: markdown
+    value: |
+      Minehut feature request guide
+
+      Fill out the template.
+      when you post your issue.
+
+      If you have a feature suggestion for Minehut, read the following:
+
+      1.  Fill out the template
+          It makes it a lot easier for everyone when issues conform to the standard templates. It also ensures we have the necessary information. To fill a checkbox, put an "x" in between the [ ] like: [x]
+
+      2.  Keep it simple
+           Make sure it's easy to understand what you're requesting and how it will be useful to people
+
+      3. Pick a relevant issue title
+         The issue title should be a short, clear summary or short name of your idea
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Confirm all of these are checked and valid.
+      options:
+        - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
+          required: true
+        - label: I am NOT reporting a security vulnerability
+          required: true
+        - label: I have searched the Issue Tracker to make sure this is not a duplicate issue
+          required: true
+        - label: This issue does not contain any sensitive information
+          required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: What platform are you on?
+      multiple: true
+      options:
+        - Java
+        - Bedrock
+        - Website
+        - Discord
+        - Other
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your idea?
+      description: What feature are you suggesting? Include a clear and concise description of the feature 
+      render: shell
+  - type: textarea
+    id: howuse
+    attributes:
+      label: How is it useful?
+      description: Who does the feature benefit? How is it useful to people?
+      render: shell
+  
