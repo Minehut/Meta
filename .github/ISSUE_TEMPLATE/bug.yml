@@ -76,13 +76,13 @@ body:
         - Minehut server name
       render: shell
   - type: textarea
-    id: reproduce
+    id: image
     attributes:
       label: Images?
       description: If applicable, add screenshots, short videos/GIFs to help explain your problem
       render: shell
   - type: textarea
-    id: reproduce
+    id: morecontext
     attributes:
       label: More?
       description: Add any other context about the problem here
