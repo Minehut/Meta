@@ -37,6 +37,8 @@ body:
         - Website
         - Discord
         - Other
+    validations:
+      required: true
   - type: dropdown
     id: filter
     attributes:
@@ -45,10 +47,14 @@ body:
       options:
         - Filter
         - UnFilter
+    validations:
+      required: true
   - type: textarea
     id: phrase
     attributes:
       label: Phrase
       description: Whats the phrase?
       render: shell
+    validations:
+      required: true
   
