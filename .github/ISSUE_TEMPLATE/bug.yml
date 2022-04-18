@@ -1,0 +1,90 @@
+name: Bug Report
+description: Report a bug on Minehut
+title: "[BUG]: "
+labels: ["bug"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Minehut bug report guide
+
+        Fill out the template
+
+        If you have a bug report for Minehut, read the following:
+
+        1.  Fill out the template
+             It makes it a lot easier for everyone when issues conform to the standard templates. It also ensures we have the necessary information. To fill a checkbox, put an "x" in between the [ ] like: [x]
+
+        2.  Keep it simple
+            Make sure it's easy to understand what you're reporting and how it can be reproduced
+
+        3. Pick a relevant issue title
+            The issue title should be a short, clear summary or short name of the bug
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Confirm all of these are checked and valid.
+      options:
+        - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
+          required: true
+        - label: I am NOT reporting a security vulnerability
+          required: true
+        - label: I have searched the Issue Tracker to make sure this is not a duplicate issue
+          required: true
+        - label: This issue does not contain any sensitive information
+          required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: What platform are you on?
+      multiple: true
+      options:
+        - Java
+        - Bedrock
+        - Website
+        - Discord
+        - Other
+  - type: textarea
+    id: bug
+    attributes:
+      label: What is your bug?
+      description: A clear and concise description of what the bug is
+      render: shell
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can I do it?
+      description: Steps to reproduce the behavior
+      render: shell
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen?
+      description: A clear and concise description of what you expected to happen
+      render: shell
+  - type: textarea
+    id: device
+    attributes:
+      label: What is your device?
+      description: |
+        Provide the following applicable information
+        - Minecraft client (and version): 
+        - Web browser (and version): 
+        - Operating system (and version): 
+        - Minehut server name
+      render: shell
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Images?
+      description: If applicable, add screenshots, short videos/GIFs to help explain your problem
+      render: shell
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: More?
+      description: Add any other context about the problem here
+      render: shell
+  
