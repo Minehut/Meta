@@ -39,7 +39,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: What platform are you on?
+      label: Where are you?
       multiple: true
       options:
         - Java
@@ -52,7 +52,7 @@ body:
   - type: textarea
     id: idea
     attributes:
-      label: What is your idea?
+      label: What is your fantastic, super incredible, must have idea?
       description: What feature are you suggesting? Include a clear and concise description of the feature 
       render: shell
     validations:
@@ -60,7 +60,7 @@ body:
   - type: textarea
     id: howuse
     attributes:
-      label: How is it useful?
+      label: How can people use it to ~~exploit~~ better use minehut?
       description: Who does the feature benefit? How is it useful to people?
       render: shell
     validations:
