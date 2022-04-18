@@ -1,0 +1,54 @@
+name: Filter Request
+title: "[FILTER]: "
+labels: filter request
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Minehut filter request guide
+
+        Fill out the template. Don't write inside the arrows as they will be hidden
+        when you post your issue.
+
+        If you have a filter request for Minehut, read the following:
+
+        1.  Fill out the template
+             It makes it a lot easier for everyone when issues conform to the standard templates. It also ensures we have the necessary information. To fill a checkbox, put an "x" in between the [ ] like: [x]
+
+        2. Keep the issue title the same as the default provided. Please do not include the filtered phrase in the issue title. 
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Confirm all of these are checked and valid.
+      options:
+        - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
+          required: true
+        - label: I have ensured the phrase is not properly filtered on the platform
+  - type: dropdown
+    id: platform
+    attributes:
+      label: What platform are you on?
+      multiple: true
+      options:
+        - Java
+        - Bedrock
+        - Website
+        - Discord
+        - Other
+  - type: dropdown
+    id: filter
+    attributes:
+      label: Should the phrase be filtered or unfiltered?
+      description: Are you reporting a mistakenly filtered phrase or an unfiltered phrase that should be filtered?
+      options:
+        - Filter
+        - UnFilter
+  - type: textarea
+    id: phrase
+    attributes:
+      label: Phrase
+      description: Whats the phrase?
+      render: shell
+  
