@@ -46,24 +46,32 @@ body:
         - Website
         - Discord
         - Other
+      validations:
+        required: true
   - type: textarea
     id: bug
     attributes:
       label: What is your bug?
       description: A clear and concise description of what the bug is
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: reproduce
     attributes:
       label: How can I do it?
       description: Steps to reproduce the behavior
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: expected
     attributes:
       label: What should happen?
       description: A clear and concise description of what you expected to happen
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: device
     attributes:
@@ -75,6 +83,8 @@ body:
         - Operating system (and version): 
         - Minehut server name
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: image
     attributes:
