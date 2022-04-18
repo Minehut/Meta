@@ -60,7 +60,7 @@ body:
   - type: textarea
     id: howuse
     attributes:
-      label: How can people use it to e̶x̶p̶l̶o̶i̶t̶ better use minehut?
+      label: How can people use it to do amazing things?
       description: Who does the feature benefit? How is it useful to people?
       render: shell
     validations:
