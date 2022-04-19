@@ -1,7 +1,7 @@
 name: Filter Request
 title: "[FILTER]: "
 labels: filter request
-description: Suggest a filter edit
+description: Report an issue with the filter
 body:
   - type: checkboxes
     id: terms
