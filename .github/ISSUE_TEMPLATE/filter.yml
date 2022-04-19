@@ -53,4 +53,11 @@ body:
       render: shell
     validations:
       required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should we do this?
+      render: shell
+    validations:
+      required: true
   
