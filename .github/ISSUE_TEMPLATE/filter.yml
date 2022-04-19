@@ -43,7 +43,7 @@ body:
   - type: textarea
     id: why
     attributes:
-      label: Why should we do this?
+      label: Why should the phrase be filtered/unfiltered?
       render: shell
     validations:
       required: false
