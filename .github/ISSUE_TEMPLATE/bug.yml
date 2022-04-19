@@ -57,7 +57,7 @@ body:
   - type: textarea
     id: reproduce
     attributes:
-      label: How can I do it?
+      label: Reproduction Steps
       description: Steps to reproduce the behavior.
       render: shell
     validations:
