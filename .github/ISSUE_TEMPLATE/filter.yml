@@ -3,20 +3,6 @@ title: "[FILTER]: "
 labels: filter request
 description: Suggest a filter edit
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Minehut filter request guide
-
-        Fill out the template. Don't write inside the arrows as they will be hidden
-        when you post your issue.
-
-        If you have a filter request for Minehut, read the following:
-
-        1.  Fill out the template
-             It makes it a lot easier for everyone when issues conform to the standard templates. It also ensures we have the necessary information. To fill a checkbox, put an "x" in between the [ ] like: [x]
-
-        2. Keep the issue title the same as the default provided. Please do not include the filtered phrase in the issue title. 
   - type: checkboxes
     id: terms
     attributes:
