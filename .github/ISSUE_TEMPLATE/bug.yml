@@ -36,7 +36,6 @@ body:
     attributes:
       label: Current Behavior?
       description: A clear and concise description of what the bug is.
-      render: shell
     validations:
       required: true
   - type: textarea
@@ -44,7 +43,6 @@ body:
     attributes:
       label: What should happen?
       description: What is the expected behavior of the action?
-      render: shell
     validations:
       required: true
   - type: textarea
@@ -52,7 +50,6 @@ body:
     attributes:
       label: Reproduction Steps
       description: Steps to reproduce the behavior.
-      render: shell
     validations:
       required: true
   - type: textarea
@@ -65,7 +62,6 @@ body:
         - Web browser (and version): 
         - Operating system (and version): 
         - Minehut server name
-      render: shell
     validations:
       required: true
   - type: textarea
@@ -73,5 +69,4 @@ body:
     attributes:
       label: Images?
       description: If applicable, add screenshots, short videos/GIFs to help explain your problem
-      render: shell
   
