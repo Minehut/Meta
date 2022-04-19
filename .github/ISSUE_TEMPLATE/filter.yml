@@ -28,8 +28,8 @@ body:
     attributes:
       label: Should the phrase be Filtered or Unfiltered?
       options:
-        - Filter
-        - Unfilter
+        - Filtered
+        - Unfiltered
     validations:
       required: true
   - type: textarea
