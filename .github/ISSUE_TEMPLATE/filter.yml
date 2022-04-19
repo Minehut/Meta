@@ -40,7 +40,6 @@ body:
     id: filter
     attributes:
       label: Should the phrase be filtered or unfiltered?
-      description: Does it need to be hidden or shown?
       options:
         - Filter
         - UnFilter
