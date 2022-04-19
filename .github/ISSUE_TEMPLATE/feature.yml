@@ -34,7 +34,7 @@ body:
   - type: textarea
     id: idea
     attributes:
-      label: What is your fantastic, super incredible, must have idea?
+      label: What is the feature you are requesting?
       description: What feature are you suggesting? Include a clear and concise description of the feature 
       render: shell
     validations:
