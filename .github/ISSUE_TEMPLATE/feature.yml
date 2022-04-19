@@ -36,7 +36,6 @@ body:
     attributes:
       label: What is the feature you are requesting?
       description: Your feature suggestion should include a clear concise description of the feature.
-      render: shell
     validations:
       required: true
   - type: textarea
@@ -44,7 +43,6 @@ body:
     attributes:
       label: How is this feature useful for Minehut?
       description: Who does the feature benefit? How is it useful to people?
-      render: shell
     validations:
       required: true
   
