@@ -29,7 +29,7 @@ body:
       label: Should the phrase be Filtered or Unfiltered?
       options:
         - Filter
-        - UnFilter
+        - Unfilter
     validations:
       required: true
   - type: textarea
