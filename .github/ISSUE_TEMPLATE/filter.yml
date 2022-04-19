@@ -26,7 +26,7 @@ body:
   - type: dropdown
     id: filter
     attributes:
-      label: Should the phrase be filtered or unfiltered?
+      label: Should the phrase be Filtered or Unfiltered?
       options:
         - Filter
         - UnFilter
