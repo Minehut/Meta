@@ -49,7 +49,7 @@ body:
     id: phrase
     attributes:
       label: Phrase
-      description: Whats the phrase?
+      description: What phrase was filtered?
       render: shell
     validations:
       required: true
