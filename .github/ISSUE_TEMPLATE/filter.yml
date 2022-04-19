@@ -29,7 +29,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: Where are you?
+      label: Which filter has the issue?
       multiple: true
       options:
         - Discord
