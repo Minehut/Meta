@@ -58,7 +58,7 @@ body:
     id: expected
     attributes:
       label: What should happen?
-      description: What was supposed to happen before the bug broke everything?
+      description: What is the expected behavior of the action?
       render: shell
     validations:
       required: true
