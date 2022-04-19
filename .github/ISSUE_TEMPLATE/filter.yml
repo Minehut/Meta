@@ -32,11 +32,8 @@ body:
       label: Where are you?
       multiple: true
       options:
-        - Java
-        - Bedrock
-        - Website
         - Discord
-        - Other
+        - Minecraft
     validations:
       required: true
   - type: dropdown
