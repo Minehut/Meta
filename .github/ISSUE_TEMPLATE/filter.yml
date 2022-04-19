@@ -26,6 +26,7 @@ body:
         - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
           required: true
         - label: I have ensured the phrase is not properly filtered on the platform
+          required: true
   - type: dropdown
     id: platform
     attributes:
