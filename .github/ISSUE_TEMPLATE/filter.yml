@@ -37,14 +37,12 @@ body:
     attributes:
       label: Phrase
       description: What phrase was filtered?
-      render: shell
     validations:
       required: true
   - type: textarea
     id: why
     attributes:
       label: Why should the phrase be filtered/unfiltered?
-      render: shell
     validations:
       required: false
   
