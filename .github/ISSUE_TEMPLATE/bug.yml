@@ -73,7 +73,7 @@ body:
   - type: textarea
     id: device
     attributes:
-      label: What is your device?
+      label: Client Information?
       description: |
         Provide the following applicable information
         - Minecraft client (and version): 
