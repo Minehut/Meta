@@ -1,6 +1,6 @@
 # How to properly make a request in Minehut Meta
 
-So, you want to suggest a feature, report a bug, or maybe suggest a change for the filter? Always remember to follow these guidelines: 
+So, you want to suggest a feature, report a bug, or report an issue with the filter? Always remember to follow these guidelines: 
 
 1. Use the issue templates provided
 2. Help out staff if asked
