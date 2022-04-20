@@ -7,7 +7,7 @@ So, you want to suggest a feature, report a bug, or report an issue with the fil
 3. Contribute to on-going discussions
 4. Give constructive feedback to ideas
 5. Search the issue tracker to ensure that your issue has not already been submitted before making a new post (use the search bar on the Issues page)
-6. Verify the validity of your issue
+6. Verify that your issue is actually an issue with Minehut
 7. Be clear, concise and specific in your messages
 8. Keep conversations on-topic
 9. Be respectful toward everyone
