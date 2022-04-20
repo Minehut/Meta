@@ -12,7 +12,7 @@ We would like to improve communication with our users by providing official chan
 This is the Minehut Meta GitHub repository. Here, you can tell us about your features and ideas that you want to be added to Minehut and you can also report bugs that need to be squashed. We use GitHub's Issue Tracker feature to track bug reports and feature requests.
 
 We understand you might not have much experience using GitHub, and that's fine! We'll do our best to help you navigate this tracker. We can start by introducing some key terms you'll be hearing a lot:
-- **Issue**: A **feature request** or **bug** report.
+- **Issue**: A **feature request**, **bug** report, or **filter** request.
 - **Repository** or **repo**: Refers to the group of Minehut Meta pages. Includes the **issue** tracker and documents (like this one).
 - **Bug**: Any piece of unintended behaviour anywhere on Minehut. Basically, if something isn't working how it should, it's a bug.
 - **Feature Request**: Anything you would like Minehut to add. If its not already on Minehut, and you think it should be, it's a feature request.
