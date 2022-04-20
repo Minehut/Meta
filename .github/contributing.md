@@ -12,7 +12,7 @@ So, you want to suggest a feature, report a bug, or report an issue with the fil
 8. Keep conversations on-topic
 9. Be respectful toward everyone
 10. Take advantage of GitHub Flavoured Markdown -- it's awesome, and it makes your submission that much better! 😄
-11. Create a separate issue for each feature request/bug report (don't talk about multiple things in one issue)
+11. Create a separate issue for each feature request/bug report (don't talk about multiple issues in one post)
 
 
 1. Don't bump issues for the sole purpose of receiving a response (all issues are acknowledged)
