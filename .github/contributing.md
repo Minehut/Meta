@@ -16,9 +16,8 @@ So, you want to suggest a feature, report a bug, or report an issue with the fil
 
 
 1. Don't bump issues for the sole purpose of receiving a response (all issues are acknowledged)
-2. Don't argue unproductively in the comments
-3. Don't stray off-topic
-4. Don't try to get support for Minehut services here -- read this
-5. Don't use logical fallacies in arguments
-6. Don't recreate an issue you feel was unjustly closed -- if you feel an issue was unjustly closed, feel free to add a comment to the issue explaining why
-7. Don't add comments such as 👍, +1, or "I like this idea" -- use reactions! We can measure those :)
+2. Don't stray off-topic
+3. Don't try to get support for Minehut services here -- read this
+4. Don't use logical fallacies in arguments
+5. Don't recreate an issue you feel was unjustly closed -- if you feel an issue was unjustly closed, feel free to add a comment to the issue explaining why
+6. Don't add comments such as 👍, +1, or "I like this idea" -- use reactions! We can measure those :)
