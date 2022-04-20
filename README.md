@@ -1,5 +1,5 @@
 # Minehut Meta
-Welcome to the [Minehut](https://minehut.com) Meta GitHub repo! This is *the* place to **report bugs**, **suggest features and improvements**, and **request to modify the filter** for Minehut, the server hosting network! You can also participate in conversations about feature requests and bug reports. 
+Welcome to the [Minehut](https://minehut.com) Meta GitHub repo! This is *the* place to **report bugs**, **suggest features and improvements**, and **report issues with the filter** for Minehut, the server hosting network! You can also participate in conversations about feature requests and bug reports. 
 
 We would like to improve communication with our users by providing official channels to report problems and tell us your ideas. This space will be taken as an approach to see if you feel comfortable reporting and tracking your issues by means of this tool. This document (called the README) will serve as a starting point for making your first issue.
 
