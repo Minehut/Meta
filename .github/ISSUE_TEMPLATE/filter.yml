@@ -1,0 +1,48 @@
+name: Filter Request
+title: "[FILTER]: "
+labels: filter request
+description: Report an issue with the filter
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Confirm all of these are checked and valid.
+      options:
+        - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
+          required: true
+        - label: I have ensured the phrase is not properly filtered on the platform
+          required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Which filter has the issue?
+      multiple: true
+      options:
+        - Discord
+        - Minecraft
+    validations:
+      required: true
+  - type: dropdown
+    id: filter
+    attributes:
+      label: Should the phrase be Filtered or Unfiltered?
+      options:
+        - Filtered
+        - Unfiltered
+    validations:
+      required: true
+  - type: textarea
+    id: phrase
+    attributes:
+      label: Phrase
+      description: What phrase was filtered?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should the phrase be filtered/unfiltered?
+    validations:
+      required: false
+  

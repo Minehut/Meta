@@ -1,0 +1,48 @@
+name: Feature Suggestion
+description: Suggest an feature for Minehut
+title: "[FEATURE]: "
+labels: ["feature request"]
+
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Confirm all of these are checked and valid.
+      options:
+        - label: I have read and agree to the README (found on https://github.com/Minehut/Meta)
+          required: true
+        - label: I am NOT reporting a security vulnerability
+          required: true
+        - label: I have searched the Issue Tracker to make sure this is not a duplicate issue
+          required: true
+        - label: This issue does not contain any sensitive information
+          required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Affected Platform?
+      multiple: true
+      options:
+        - Java
+        - Bedrock
+        - Website
+        - Discord
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is the feature you are requesting?
+      description: Your feature suggestion should include a clear concise description of the feature.
+    validations:
+      required: true
+  - type: textarea
+    id: howuse
+    attributes:
+      label: How is this feature useful for Minehut?
+      description: Who does the feature benefit? How is it useful to people?
+    validations:
+      required: true
+  
