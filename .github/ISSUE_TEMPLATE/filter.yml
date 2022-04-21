@@ -1,5 +1,4 @@
 name: Filter Request
-title: "[FILTER]: "
 labels: filter request
 description: Report an issue with the filter
 body:
