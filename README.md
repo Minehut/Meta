@@ -1,3 +1,9 @@
+We are no longer maintaining this repo. If you would like to suggest a new feature or report a bug, please consider joining either our public [Minehut](https://discord.gg/minehut) Discord server or our [Minehut Partners](https://discord.gg/cBzKHdFN6N) Discord server. Thank you for your understanding!
+
+The original README continues below.
+
+----
+
 # Minehut Meta
 Welcome to the [Minehut](https://minehut.com) Meta GitHub repo! This is *the* place to **report bugs** and **suggest features and improvements** for Minehut, the server hosting network! You can also participate in conversations about feature requests and bug reports. 
 
