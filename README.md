@@ -1,3 +1,6 @@
+# ARCHIVED
+This forum is no longer in use by the development team. Please refer to our [Discord server](https://discord.gg/minehut) under `#feedback-and-requests` when making suggestions and bug reports from now on.
+
 # Minehut Meta
 Welcome to the [Minehut](https://minehut.com) Meta GitHub repo! This is *the* place to **report bugs** and **suggest features and improvements** for Minehut, the server hosting network! You can also participate in conversations about feature requests and bug reports. 
 
